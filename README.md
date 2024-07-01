@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá!! 👋
 
 - 🔭 Estudando com o foco em ser back-end
 - 🌱 Estudando C++
