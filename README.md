@@ -2,7 +2,7 @@
 
 - 🔭 Estudando com o foco em ser back-end;
 - 🌱 C++;
-- ⚡ na UberHub no 2 ciclo de 2024 como iniciante 1!;
+- ⚡ na UberHub no 2º ciclo de 2024 como iniciante 1!;
 - 😄 Pronomes: ela/dela
 
   
