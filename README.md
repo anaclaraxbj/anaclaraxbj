@@ -1,9 +1,9 @@
 ## Olá!! 👋
 
-- 🔭 Estudando com o foco em ser back-end;
+- 🔭 Estudando...;
 - 🌱 C++;
-- ⚡ na UberHub no 2º ciclo de 2024 como iniciante 1!;
-- 😄 Pronomes: ela/dela
+- ⚡ Autodidata;
+- 😄 Pronomes: ela/dela;
 
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anaclaraxbj\&show_icons=true\&theme=radical)
