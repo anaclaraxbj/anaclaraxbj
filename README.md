@@ -3,6 +3,7 @@
 - 🔭 Estudando...;
 - 🌱 C++;
 - ⚡ Ciência da Computação- UFU;
+- 
   https://slow-cress-863.notion.site/Ana-Clara-Barbaresco-Junqueira-2e185a050e0280ecac52dfdddae63656
 
  
